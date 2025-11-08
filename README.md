@@ -260,8 +260,8 @@ This project is licensed under the MIT License
 
 ## Contact
 
-**Sakiru Olarewaju Olagunju, Huseyin Atakan Varol, Ferhat Karaca**  
-Nazarbayev University and Institue of Smart Systems and Artificial Intelligence  
+**Shakir Olarewaju Olagunju**  
+Nazarbayev University 
 Email: sakiru.olagunju@nu.edu.kz  
 
 **Related Publication:** in progress
