@@ -84,7 +84,7 @@ python Curvature_Aware.py
 **Workflow:**
 1. Select all "BEFORE" DTMs (pre-earthwork)
 2. Select all "AFTER" DTMs (post-earthwork) in corresponding order
-3. Results saved to `Analysis_Outputs/adaptive_volume_results.csv`
+3. Results saved to `Curvature_Aware_Result_Dir/curvature_aware_volume_results.csv`
 
 ## Algorithm Parameters
 
@@ -246,7 +246,6 @@ Contributions are welcome! Please:
 git clone https://github.com/Gunjuzone/curvature-aware-earthwork-volume-estimation.git
 cd curvature-aware-earthwork
 pip install -r requirements.txt
-pip install -r requirements-dev.txt 
 ```
 
 ## License
