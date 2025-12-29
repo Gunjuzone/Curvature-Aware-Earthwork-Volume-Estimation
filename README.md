@@ -21,8 +21,7 @@ If you use this code in your research, please cite:
   title={Curvature-Aware Urban Terrain Earthwork Volume Estimation: A Multi-City Remote Sensing Framework},
   author={Sakiru Olarewaju Olagunju and Huseyin Atakan Varol and Ferhat Karaca},
   journal={Geocarto International},
-  year={2025},
-  note={Under Review}
+  year={2025}
 }
 ```
 
@@ -263,5 +262,7 @@ This project is licensed under the MIT License
 Nazarbayev University 
 Email: sakiru.olagunju@nu.edu.kz  
 
-**Related Publication:** in progress
+**Related Publication:** https://www.tandfonline.com/doi/full/10.1080/10106049.2025.2609371?src=
+
+Curvature-aware urban terrain earthwork volume estimation: a multi-city remote sensing framework
 
